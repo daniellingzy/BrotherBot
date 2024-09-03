@@ -4,7 +4,7 @@
 
 > "We must live together as brothers or perish together like fools." - Martin Luther King Jr.
 > 
-![](./Ui.png)
+![](docs/Ui.png)
 
 </div>
 
